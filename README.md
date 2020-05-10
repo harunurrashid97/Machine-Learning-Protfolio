@@ -1,6 +1,6 @@
 # Machine-learning-RoadMap
 
-[Machine Learning is the](https://www.geeksforgeeks.org/machine-learning/)field of study that gives computers the ability to learn
+[Machine Learning is the](https://www.geeksforgeeks.org/machine-learning/) field of study that gives computers the ability to learn
 without being explicitly programmed.
 —Arthur Samuel, 1959
 
