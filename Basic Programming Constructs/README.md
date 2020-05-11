@@ -1,6 +1,6 @@
 # Basic Programming Construsts of Python 🔰
 
-In this part,I was learned Python's Basic Concepts.
+In this part,We will learn Python's Basic Concepts.
 
 1. Variables 📜
 
