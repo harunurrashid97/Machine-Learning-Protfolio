@@ -37,4 +37,4 @@ Just open an idle which you like & then copy the code and paste it on your idle.
 
 # Authors 👨🏻‍💻
 
-[Harun-Ur-Rashid](www.github.com/harunshimanto)
+[Harun-Ur-Rashid](https://harunurrashid.info/)
